@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Rai</h1>
 <h3 align="center">A frontend developer from Bhopal, India</h3>
 
-- 👨‍💻 All of my projects are available at [shubhamrai.vercel.app](shubhamrai.vercel.app)
+- 👨‍💻 All of my projects are available at [shubhamrai.vercel.app](https://shubhamrai.vercel.app/)
 
 - 📫 How to reach me **shubh95rai@gmail.com**
 
